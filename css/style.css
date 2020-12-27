@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0%;
+    text-align: center;
+}
+.homeHeading{
+    background-color: #f09797 ;
+    color: #ffffff;
+    font-size: 3rem;
+}
+.description{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    text-align: left;
+}
+.btn{
+    padding: 5px 30px;
+    margin: 5px 15px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+    background-color: #f09797;
+}
+.btn:hover{
+    color: #f09797;
+    background-color: #ffffff; 
+    text-decoration: underline;
+}
+.home-img{
+    margin: 13% 2%;
+}.seller-description{
+    margin: 5% 10%;
+}
+.input{
+    display: inline-block;
+    margin: 20px;
+}
+.sellerLogin{
+    margin: auto;
+}
+.sellerLoginBtn{
+    text-align: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+    background-color: #f09797;
+    padding: 7px;
+}.sellerLoginBtn:hover{
+    color: #f09797;
+    background-color: #ffffff; 
+    text-decoration: underline;
+}
